@@ -1,0 +1,1 @@
+- Usar JDK 22.0.2 o superior para que la app se ejecute correctamente
